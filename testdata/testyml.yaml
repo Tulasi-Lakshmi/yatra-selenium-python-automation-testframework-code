@@ -1,0 +1,12 @@
+---
+test1:
+    goingfrom: New Delhi
+    goingto:  New York
+    date: 31/10/2023
+    stops: 1 Stop
+test2:
+    goingfrom: Mum
+    goingto:  JFK
+    date: 2/11/2023
+    stops: 2 Stop
+...
