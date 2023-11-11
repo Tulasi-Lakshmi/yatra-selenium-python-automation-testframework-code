@@ -35,3 +35,5 @@ class BaseDriver:
         wait = WebDriverWait(self.driver, 10)
         search_res = wait.until(EC.visibility_of_all_elements_located((locater_type,locater)))
         return search_res
+
+# some lines sdet1
